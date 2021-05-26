@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+@import url('http://fonts.cdnfonts.com/css/bignoodletitling');
+@import url('http://fonts.cdnfonts.com/css/web-serveroff');
+.body{
+    background-image:url(./images/Untitled-1.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+
+/* Bordered form */
+.form1{
+    width: 200px !important;
+    padding: 30px;
+    border: 1px solid #ec6a36;
+    border-radius: 10px;
+    background: #ec6a36;
+}
+
+
+/* Full-width inputs */
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+/* Set a style for all buttons */
+input[type=submit] {
+    background-color: #565253;
+    color: white;
+    padding: 14px 20px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+input[type=submit]:hover {
+    background-color: white;
+    color: #c96670;
+    border: 1px solid #c96670;
+}
+.CN{
+    font-family: 'Josefin Sans', sans-serif;
+}
+.HH{
+    height: 100%;
+}
+.AP{
+    size: small;
+}
+.font_white{
+    color: white;
+}
+.HHHH{
+    width: 800px;
+    height: auto;
+    border-radius: 10px;
+}
+.BN{
+    font-family: 'Web Serveroff', sans-serif;
+    font-size:xx-large;
+    color:#043D5A;
+}
+
